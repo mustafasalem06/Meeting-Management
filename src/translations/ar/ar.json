@@ -1,0 +1,168 @@
+{
+  "HomePage": {
+    "header": "الاجتماعات",
+    "guestName": "الشخص/الجهة",
+    "meetingTopic": "الموضوع",
+    "meetingDate": "تاريخ الاجتماع",
+    "meetingAddress": "عنوان الاجتماع",
+    "area": "المنطقة",
+    "meetingTime": "وقت",
+    "meetingStatus": "حالة الاجتماع",
+    "comments": "ملاحظات"
+  },
+  "navInner": {
+    "Home": "الرئيسية",
+    "calendar": "التقويم",
+    "meeting": "الاجتماعات",
+    "createMeeting": "انشاء اجتماع"
+  },
+  "Login": {
+    "loginheader": "تسجيل دخول",
+    "placeholder": "اسم المستخدم أو البريد الالكتروني",
+    "email": "بريد إلكتروني",
+    "password": "كلمة المرور",
+    "button": "تسجيل الدخول",
+    "signuphint": "ليس لديك حساب ؟",
+    "signup": "اشتراك",
+    "forget": "نسيت كلمة السر؟"
+  },
+  "signup": {
+    "signupheader": "انشاء حساب",
+    "firstName": "الاسم الأول",
+    "lastName": "اسم العائلة",
+    "userName": "اسم المستخدم",
+    "email": "بريد إلكتروني",
+    "password": "كلمة المرور",
+    "confirmPassword": "تأكيد كلمة المرور",
+    "role": "المسمى الوظيفي",
+    "manager": "مدير",
+    "sec": "سكرتير",
+    "admin": "ادمن",
+    "button": "إنشاء حساب",
+    "loginHint": "لديك حساب بالفعل",
+    "login": "تسجيل دخول",
+    "createManagerAccount": "إنشاء حساب المدير",
+    "AddExistingAccount":"اضافة مدير موجود"
+  },
+  "sidebar": {
+    "home": "الاجتماعات",
+    "calendar": "تقويم",
+    "meetings": "الاجتماعات",
+    "createMeeting": "إنشاء اجتماع",
+    "Nots": "ملاحظات",
+    "createManagerAccount": "إنشاء حساب المدير"
+  },
+  "Calendar": {
+    "calendar": "التقويم",
+    "meetingTopic": "موضوع الاجتماع",
+    "meetingTime": "موعد الاجتماع",
+    "showDetails": "عرض المزيد"
+  },
+  "CreateOrUpdateMeeting": {
+    "createMeeting": "انشاء اجتماع",
+    "updateMeeting": "تعديل الاجتماع",
+    "person": "الشخص أو الجهة",
+    "topic": "موضوع الاجتماع",
+    "address": "عنوان الاجتماع",
+    "notes": "ملحوظات",
+    "inside": "داخل الهيئة",
+    "outside": "خارج الهيئة",
+    "buttonAdd": "أضف الاجتماع",
+    "buttonUpdate": "تعديل الاجتماع",
+    "Drag": "قم بسحب وإسقاط الملف هنا أو انقر للتصفح",
+    "nofile": "لم يتم تحميل أي ملف",
+    "choose": "اختر المدير"
+  },
+  "search": "بحث",
+  "meetings": {
+    "meetingDetails": "تفاصيل الاجتماع",
+    "btnShow": "PDF عرض",
+    "btnAddNotes": "إضافة ملاحظات",
+    "date": "تاريخ الاجتماع",
+    "time": "وقت الاجتماع",
+    "person": "شخص",
+    "guestName": "اسم الضيف",
+    "topic": "الموضوع",
+    "address": "العنوان",
+    "area": "المنطقة",
+    "status": "الحالة",
+    "Comments": "تعليقات",
+    "inOrOut": "داخل أو خارج"
+  },
+
+  "tableMeetings": {
+    "meetings": "الاجتماعات",
+    "btnShow": "عرض PDF",
+    "btnAddNotes": "إضافة ملاحظات",
+    "table": {
+      "date": "تاريخ الاجتماع",
+      "time": "وقت الاجتماع",
+      "person": "شخص",
+      "guestName": "اسم الضيف",
+      "topic": "الموضوع",
+      "address": "العنوان",
+      "area": "المنطقة",
+      "status": "الحالة",
+      "comments": "تعليقات",
+      "inOrOut": "داخل أو خارج"
+    }
+  },
+
+  "MeetingContextMenu": {
+    "status": "تعديل الحالة",
+    "statusContext": {
+      "done": "تم",
+      "changedate": "تغيير الميعاد",
+      "cancel": "إلغاء"
+    },
+    "update": "تعديل",
+    "delete": "مسح"
+  },
+  "Dashborad": {
+    "Acceptacne": {
+      "AcceptacneSec": "قبول سكرتير",
+      "AcceptacneManager": "قبول مدير",
+      "AcceptacneName": "القبول",
+      "userName": "اسم المستخدم",
+      "name": "الاسم",
+      "E_mail": "البريد الإلكتروني",
+      "reject": "رفض",
+      "accept": "قبول"
+    },
+    "ManageresAndSecretaries": {
+      "ManageresName": "مديرين",
+      "SecretariesName": "سكرتاريين",
+      "userName": "اسم المستخدم",
+      "name": "الاسم",
+      "E_mail": "البريد الإلكتروني",
+      "Accepted": "الحالة",
+      "delete": "حذف"
+    },
+    "history": {
+      "historyName": "السجل",
+      "role": "المسمى الوظيفي",
+      "userName": "اسم المستخدم",
+      "name": "الاسم",
+      "email": "البريد الإلكتروني",
+      "createdAtdate": "تاريخ الإنشاء",
+      "createdAttime": "وقت الإنشاء",
+      "agent": "اسم الجهاز"
+    },
+    "Meetings": {
+      "MeetingsName": "الاجتماعات",
+      "person": "الاسم",
+      "Topic": "الموضوع",
+      "Address": "العنوان",
+      "MeetingPlace": "الموقع",
+      "status": "الحالة",
+      "time": "الوقت",
+      "date": "التاريخ",
+      "Delete": "حذف"
+    },
+    "recover": {
+      "recoverManager": "استعادة مدير محذوف",
+      "recoverSec": "استعادة سكرتير محذوف",
+      "recoverName": "استعادة"
+    }
+  }
+}

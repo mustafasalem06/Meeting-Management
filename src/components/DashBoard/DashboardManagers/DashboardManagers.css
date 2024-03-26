@@ -1,0 +1,35 @@
+.main .parent-dash {
+  background-color: var(--black-color);
+}
+
+.accImage {
+  width: 35px;
+  height: 35px;
+  font-size: 18px;
+  border-radius: 100vh !important;
+  -webkit-user-select: none;
+  user-select: none;
+}
+
+
+table tr td {
+  background-color: var(--cardBgColor) !important;
+  border-bottom: 0px;
+  color: var(--BlackToWhite) !important;
+}
+
+table th {
+  border: 0px !important;
+  background-color: var(--cardBgColor) !important;
+  border-bottom: 1px solid rgb(255, 255, 255, 0.2) !important;
+  color: var(--BlackToWhite) !important;
+  width: 200px !important;
+}
+
+.nav {
+  background-color: var(--cardBgColor);
+}
+
+.MuiTableCell-root {
+  color: var(--BlackToWhite) !important;
+}

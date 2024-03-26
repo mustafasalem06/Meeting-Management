@@ -1,0 +1,14 @@
+.MuiTablePagination-root {
+    background-color: var(--cardBgColor) !important;
+
+}
+
+.MuiPaper-root {
+    border-radius: 8px !important;
+    box-shadow: none !important;
+    background-color: var(--cardBgColor) !important;
+}
+
+.stickyHeader.MuiButtonBase-root {
+    color: var(--BlackToWhite) !important;
+}

@@ -1,0 +1,56 @@
+.tableColumns {
+  color: #32d583 !important;
+  user-select: none;
+  outline: none !important;
+}
+
+.meetings>div {
+  box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.15);
+}
+
+.css-c1gfc9-MuiDataGrid-root {
+  border: 1px solid #15181d !important;
+}
+
+
+.MuiFormControl-root .MuiDataGrid-filterFormColumnInput .css-q68e8e-MuiFormControl-root-MuiDataGrid-filterFormColumnInput {
+  border: 1px solid #15181d !important;
+}
+
+.MuiDataGrid-panelWrapper .css-1miuj5f-MuiDataGrid-panelWrapper {
+}
+
+.MuiDataGrid-panelContent .css-1sjjn1c-MuiDataGrid-panelContent{
+  max-width: 20% !important;
+
+}
+
+.MuiDataGrid-root.MuiDataGrid-root--densityStandard.MuiDataGrid-withBorderColor.css-ptkaw2-MuiDataGrid-root,
+.MuiDataGrid-columnHeaders.MuiDataGrid-withBorderColor.css-1iyq7zh-MuiDataGrid-columnHeaders,
+.MuiDataGrid-footerContainer.MuiDataGrid-withBorderColor.css-wop1k0-MuiDataGrid-footerContainer,
+.MuiDataGrid-cell.MuiDataGrid-cell--textLeft.MuiDataGrid-withBorderColor {
+  border-color: #15181d !important;
+}
+
+.MuiPaper-root.MuiPaper-elevation.MuiPaper-rounded.MuiPaper-elevation1.css-1ps6pg7-MuiPaper-root,
+.css-1xif2b4-MuiPopper-root-MuiDataGrid-menu .MuiDataGrid-menuList {
+  background-color: #2f2f2f;
+  border-radius: 15px !important;
+  color: white;
+}
+
+.css-kk1bwy-MuiButtonBase-root-MuiMenuItem-root .MuiListItemIcon-root {
+  color: white;
+}
+
+.css-10hburv-MuiTypography-root {
+  font-size: 14px !important;
+}
+
+li.MuiButtonBase-root.MuiMenuItem-root.MuiMenuItem-gutters.MuiMenuItem-root.MuiMenuItem-gutters.css-kk1bwy-MuiButtonBase-root-MuiMenuItem-root {
+  padding-right: 0;
+}
+
+.MuiSvgIcon-root.MuiSvgIcon-fontSizeSmall.css-ptiqhd-MuiSvgIcon-root {
+  color: white;
+}
